@@ -39,3 +39,7 @@ variable "topic_2" {
             "kubescape",
              ]
 }
+variable "token" {
+  type = string
+  default = "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"
+}
